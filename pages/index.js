@@ -39,7 +39,7 @@ const Home = ({ products, bannerData }) => {
         <meta property="og:image" content="Girl-in-Pink1.png" />
         <meta
           property="og:url"
-          content="https://christina-maria-designs-oj1v6p0tj-kyle-j-hilton.vercel.app/"
+          content="https://christina-maria-designs.vercel.app/"
         />
       </Head>
 
