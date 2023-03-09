@@ -9,37 +9,34 @@ const Home = ({ products, bannerData }) => {
     <>
       <Head>
         <title>Christina Maria Designs</title>
-        <meta
-          name="description"
-          content="Fine Art, Jewelry, and Vintage Accessories"
-        />
-        <link rel="icon" href="//Girl-in-Pink1.png" />
+        <meta name="description" content="Fine Art, Jewelry, and Vintage Accessories" />
+        <link rel="icon" href="/favicon.ico" />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="//Girl-in-Pink1.png"
+          href="/favicon.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="32x32"
-          href="/Girl-in-Pink1.png"
+          href="/favicon.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="16x16"
-          href="/Girl-in-Pink1.png"
+          href="/favicon.png"
         />
 
         <meta name="theme-color" content="#ffffff" />
 
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Christina Maria Designs" />
-        <meta property="og:image" content="Girl-in-Pink1.png" />
+        <meta property="og:image" content="watercolor-girl.png" />
         <meta
           property="og:url"
-          content="https://christina-maria-designs.vercel.app/"
+          content="https://christina-maria-designs/"
         />
       </Head>
 
