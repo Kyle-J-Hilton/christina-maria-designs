@@ -25,7 +25,7 @@ const ContactForm = () => {
     <div className="contactForm-container">
         <div className=".contactForm-container-left">  
         <img
-          src='/%PUBLIC_URL%/girlInPink.png'
+          src='https://christina-maria-designs.vercel.app/girlInPink.png'
           className="contactForm-image"
         />
         </div>
