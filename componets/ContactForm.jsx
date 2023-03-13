@@ -25,7 +25,7 @@ const ContactForm = () => {
     <div className="contactForm-container">
         <div className=".contactForm-container-left">  
         <img
-          src='../%PUBLIC_URL%/girlInPink.png'
+          src='/%PUBLIC_URL%/girlInPink.png'
           className="contactForm-image"
         />
         </div>
